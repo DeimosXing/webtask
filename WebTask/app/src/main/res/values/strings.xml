@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WebTask</string>
+    <string name="action_settings">Settings</string>>
+    <string name="hello_world">Hello world!</string>
+    <string name="login">武汉大学教务管理系统</string>
+    <string name="please_input_id">请输入用户名</string>
+    <string name="please_input_pwd">请输入密码</string>
+    <string name="please_input_code">请输入验证码</string>
+    <string name="title_activity_schedule">ScheduleActivity</string>
+</resources>
